@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  max-width: 1146px;
+  margin: auto;
+}
+
+header {
+  background-image: url(./images/204398-OZ3P4A-964.jpg);
+  background-position: center;
+  padding: 120px 0 138px 0;
+}
+
+h1 {
+  color: #003395;
+  font-weight: 500;
+  font-size: 54px;
+  margin-bottom: 27px;
+}
+
+.headerText {
+  font-size: 18px;
+}
+
+nav {
+  background-color: #003395;
+  height: 75px;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #fff;
+  display: inline-block;
+  padding: 27px 62px 26px 0px;
+  letter-spacing: 2px;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+div section p a {
+  color: #003395;
+}
+
+main {
+  background: #fff;
+  padding-top: 57px;
+  padding-bottom: 34px;
+}
+
+.about {
+  max-width: 754px;
+  display: inline-block;
+}
+
+.aboutHeading {
+  font-weight: 700;
+  font-size: 27px;
+  color: #003395;
+  border-top: 2px solid #003395;
+  border-bottom: 2px solid #003395;
+  padding: 13px 0 16px 0;
+  margin-bottom: 16px;
+}
+
+.aboutText {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  margin: 0 0 44px 0;
+}
+
+.right {
+  width: 362px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 0 0 30px;
+}
+
+.borders1 {
+  border: #003395 2px solid;
+  margin-bottom: 55px;
+  padding: 19px 19px 26px 19px;
+}
+
+.borders2 {
+  border: #003395 2px solid;
+  margin-bottom: 55px;
+  padding: 19px 19px 24px 19px;
+}
+
+.rightHeading {
+  background-color: #24b0ff;
+  font-weight: 700;
+  font-size: 30px;
+  color: #fff;
+  padding: 14px 17px 14px 17px;
+  margin-bottom: 14px;
+}
+
+.rightText {
+  font-weight: 400;
+  font-size: 16.2px;
+  line-height: 26px;
+  margin-top: 14px;
+}
+
+.linkList {
+  list-style-type: none;
+}
+
+.rightLinks {
+  text-decoration-line: underline;
+  margin-top: 14px;
+  font-weight: 400;
+  font-size: 16.2px;
+  color: #30233d;
+  display: block;
+}
+
+footer {
+  background: linear-gradient(180deg, #003395 0%, #00205f 100%);
+  padding: 45px 0 83px 0;
+}
+
+.footerText {
+  font-weight: 400;
+  font-size: 11.7px;
+  text-align: right;
+  color: #fcfcfc;
+}
